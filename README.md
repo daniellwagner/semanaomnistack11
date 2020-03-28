@@ -1,7 +1,7 @@
 # Semana Omnistack 11
 Semana Omnistack 11. 
  
-  28/03/2020 . React , Node, SQLite3
+      28/03/2020 . React , Node, SQLite3
 
  - Conhecendo a OmniStack (23/03/2020)
  - Criando a base da aplicação (24/03/2020)
