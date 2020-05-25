@@ -1,0 +1,8 @@
+- Ao usar react usar a extensao: React developer tools do google chrome
+- Usar o editor de codigo visual studio code da microsoft
+- Nome de componentes devem sempre comecar com letra maiuscula
+- JSX: //JSX (Javascript XML) : HTML dentro do javascript
+- Tudo dentro do react e componente: header, input de senha, botao etc
+- Sempre importar a linha: import React from 'react' ao usar o react;
+- Quando for colocar variavel, funcao, qualquer coisa que seja javascript dentro do 
+html do nosso componente react vamos utilizar as chaves
