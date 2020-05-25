@@ -6,3 +6,9 @@
 - Sempre importar a linha: import React from 'react' ao usar o react;
 - Quando for colocar variavel, funcao, qualquer coisa que seja javascript dentro do 
 html do nosso componente react vamos utilizar as chaves
+- Conceito de estado: informacao que e guardada em um componente html(input de usuario, 
+input de senha), essa informacao vem do back end ou o proprio usario a passa. Ex: Nome
+de usuario em um input de usuario, senha em um input de senha
+- Conceito de propriedade: atributo passado para um componente: input de usaurio, header etc. 
+EX: title de um header, title de um input do usuario
+- Todo html do react tem de esta dentro de uma div

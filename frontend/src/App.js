@@ -1,13 +1,20 @@
-import React from 'react';
+import React, { useState } from 'react';
 import Header from './Header'
 
 //JSX (Javascript XML) : HTML dentro do javascript
 
 function App() {
+  const [counter, setCounter] = useState(0);
+
+  function increment() {
+    setCounter(counter + 1);
+  }
+
   return (
-    <Header>
-      Semana Omnistack
-    </Header>
+    <div>
+      <Header> Contador: {counter} </Header>
+      <button onClick={increment}>Incrementar</button>
+    </div>
   );
 }
 
