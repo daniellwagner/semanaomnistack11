@@ -13,4 +13,4 @@ de usuario em um input de usuario, senha em um input de senha
 EX: title de um header, title de um input do usuario
 - Todo html do react tem de esta dentro de uma div
 
-parei em 43m:34s
+parei em 01:34 min
